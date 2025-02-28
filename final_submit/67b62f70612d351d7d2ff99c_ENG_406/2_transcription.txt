@@ -1,0 +1,1 @@
+So I've heard a lot about contact tracing apps, but I guess my main concerns are to do with their privacy and data security, and whether I would be able to maintain privacy and data security. I guess, could you give me more detailed information on how these apps are actually built and how they handle my data, and whether using them is even safe?
