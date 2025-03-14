@@ -1,0 +1,1 @@
+Well, thanks for all that information. I am interested in how yaws is diagnosed. Do you have any details on the diagnostic process and the challenges that may be involved?

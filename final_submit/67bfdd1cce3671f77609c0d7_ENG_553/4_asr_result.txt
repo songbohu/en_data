@@ -1,0 +1,1 @@
+Autotesting a common practice globally and are there any limitations or challenges to its implementation in different regions?
