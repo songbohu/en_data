@@ -1,0 +1,1 @@
+How can I be sure that what I have is yaws? Are there specific tests that can confirm the diagnosis? I'm interested in understanding the process.
