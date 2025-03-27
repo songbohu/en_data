@@ -1,0 +1,1 @@
+Okay, yeah, what do I need to know about the testing process for Hep C, please? How are the tests conducted and what should I expect during that process?
