@@ -1,0 +1,1 @@
+Okay, that's good to know about testing, but what happens if these tests are positive and they find cancer?
